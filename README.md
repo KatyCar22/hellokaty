@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Digital Humanities in the Classroom - Github
 
 You can use the [editor on GitHub](https://github.com/KatyCar22/hellokaty/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
